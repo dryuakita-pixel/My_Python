@@ -1,0 +1,11 @@
+word = ("chicken, beef, pork, lamb, fish")
+print(len(word))
+
+words1 = 'notorious'
+print(len(words1))
+
+words2 = 'fruits:apple:banana:mango:grape'
+print(len(words2))
+
+words3 = {'colors', 'red', 'blue', 'green', 'yellow'}
+print(len(words3))
