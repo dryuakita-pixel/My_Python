@@ -1,0 +1,7 @@
+print([1, 2, 3, 4, 5])
+print(('apple', 'banana', 'cherry'))
+print(['red', 1, 2, 3, 4, 5])
+print((True, False, None, 'Hello', 3.14))
+print([10, 20, 30] + [40, 50, 60])
+print([1]+[2]+[3]+[4]+[5])
+print([])
