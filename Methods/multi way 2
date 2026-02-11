@@ -1,0 +1,8 @@
+#the multiway
+a = 100
+if a < 100:
+    print("a is less than 100")
+    elif a < 500:
+            print("mid")
+            else:
+                    print("large")
