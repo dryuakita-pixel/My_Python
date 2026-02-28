@@ -1,0 +1,4 @@
+User = "user123"
+Password = "123"
+
+print(f"Hello, {user} your password is {Password}!")
